@@ -1,5 +1,3 @@
-A sample for the Typesafe Stack (http://typesafe.com/stack).
 
-Scala sample project using Scala and SBT.
-
-To run and test it use SBT invoke: 'sbt run'
+Comment placer n points dans une grille n/2 par n/2 sans que trois points soit alignés. Méthode naïve et concise.
+Pour répondre à un problème posé par ma fille en CM2.
